@@ -1,6 +1,6 @@
 # Currency Converter
 
-A currency converter app to converter one currency type to another. An external API is used to fetch latest currency rates and the rates are updated based on the user input.
+A currency converter app to convert one currency type to another. An external API is used to fetch the latest currency rates and the rates are updated based on the user input.
 
 ## Preview
 
