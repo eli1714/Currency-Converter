@@ -2,6 +2,10 @@
 
 A currency converter app to converter one currency type to another. An external API is used to fetch latest currency rates and the rates are updated based on the user input.
 
+## Preview
+
+[Currency Converter - Live](https://currency-converter-react-ef.herokuapp.com/)
+
 ## Tools
 
 - React Hooks - useState and useEffect
